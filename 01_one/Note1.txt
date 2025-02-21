@@ -28,4 +28,4 @@ we have to install thes in a path
  Shell Command: Install 'code' command in PATH hello bhai
 
 add footer
-add main
+add main and this will contain the montizable content 
