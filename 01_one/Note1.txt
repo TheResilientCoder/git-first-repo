@@ -1,0 +1,24 @@
+What is Git ? Git is a software and Github is a online service to host Git .
+some company may use Git lab service etc etc but to use Github you have to 
+understand Git . 
+
+-->>Now just like Games it our Choice to choose which level we want to play 
+Similarly Git  allows us to take us in our software where ever we want by 
+adding Cheaks points in the Software so Git allows us to move at any point 
+in a Software 
+
+-->>Version Controll System : VCS
+Same it Track the Files for changes and collaberate with others 
+Version control systems are used to manage the history of your code.
+Before Git became mainstream, version control systems were used by developers
+to manage their code. They were called SCCS (Source Code Control System). 
+SCCS was a proprietary software that was used to manage the history of code. 
+It was expensive and not very user-friendly.
+Git was created to replace SCCS and to make version control more accessible
+and user-friendly. Some commong version control systems
+are Subversion (SVN), CVS, and Perforce.
+
+-->>It is not that Github is the only provider of Git repositories, 
+but it is one of the most popular ones.
+
+-->>someone call it Directory someone call it Folder or Someone call it repositories
