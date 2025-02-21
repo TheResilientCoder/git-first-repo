@@ -26,3 +26,5 @@ but it is one of the most popular ones.
 
 we have to install thes in a path 
  Shell Command: Install 'code' command in PATH hello bhai
+
+add footer
